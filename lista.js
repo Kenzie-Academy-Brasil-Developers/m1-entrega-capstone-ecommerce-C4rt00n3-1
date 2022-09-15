@@ -27,7 +27,7 @@ let listaProduct = [{
     name  : "Barba Branca",
     price : 66.00,
     category : "One Piece",
-    image : "./img/ooooo/Rectangle 33.png",
+    image : "./img/Dargon Ball/Rectangle 33.png",
     alt:"Personagem Barba Branca",
     description:"action figure Barba branca em plastico",
 },{
@@ -35,7 +35,7 @@ let listaProduct = [{
     name  : "Roronoa Zoro",
     price : 70.00,
     category : "One Piece",
-    image : "./img/ooooo/Rectangle 7.png",
+    image : "./img/Dargon Ball/Rectangle 7.png",
     alt:"Personagem Rorona Zoro",
     description:"action figure Roronoa Zoro em plastico",
 },{
@@ -43,7 +43,7 @@ let listaProduct = [{
     name  : "Lady Figth",
     price : 49.00,
     category : "One Piece",
-    image : "./img/ooooo//action-figure-one-piece-lady-fight 1.png",
+    image : "./img/Dargon Ball/action-figure-one-piece-lady-fight 1.png",
     alt:"Personagem Lady Figth",
     description: "action figure Lady Figth em plastico",
 },{
