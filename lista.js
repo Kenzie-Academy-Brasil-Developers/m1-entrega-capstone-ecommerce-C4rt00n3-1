@@ -27,7 +27,7 @@ let listaProduct = [{
     name  : "Barba Branca",
     price : 66.00,
     category : "One Piece",
-    image : "./img/ooooo//Rectangle 33.png",
+    image : "./img/ooooo/Rectangle 33.png",
     alt:"Personagem Barba Branca",
     description:"action figure Barba branca em plastico",
 },{
